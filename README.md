@@ -13,5 +13,5 @@ Clone this repository on your pc, and executed the commands below:
 ```
 cd path/to/this/repo
 bundle install
-...
+ruby index.rb 
 ```
