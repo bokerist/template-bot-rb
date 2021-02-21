@@ -30,7 +30,7 @@ GEM
     tilt (2.0.10)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-20
 
 DEPENDENCIES
   bundler
@@ -39,7 +39,7 @@ DEPENDENCIES
   sinatra
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 3.0.0p0
 
 BUNDLED WITH
-   1.17.2
+   2.2.3

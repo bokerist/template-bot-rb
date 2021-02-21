@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.6.3"
+ruby "3.0.0"
 
 gem "rspec"
 gem "bundler"
