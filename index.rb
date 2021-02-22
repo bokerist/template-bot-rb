@@ -1,6 +1,15 @@
-require "sinatra"
-require "json"
+# require "sinatra"
+
+
+# get "/" do
+#   "200 OK"
+# end
+
+
 require "ostruct"
+require "json"
+
+require "sinatra"
 
 require_relative "player"
 
