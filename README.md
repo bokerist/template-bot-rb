@@ -2,9 +2,9 @@
 
 A bot poker implementation.
 
-Ruby client for [Bot Poker](https://bot-poker.herokuapp.com/about).
+Ruby client for [Bot Poker](https://botpoker.herokuapp.com/about).
 
-Developer? Check the [wiki](https://bot-poker.herokuapp.com/wiki).
+Developer? Check the [wiki](https://botpoker.herokuapp.com/wiki).
 
 ## How to run on localhost
 
